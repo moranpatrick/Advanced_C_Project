@@ -1,0 +1,216 @@
+=============================================================
+			All Surveys
+=============================================================
+
+PPS Number: 2
+Name: Patrick Moran
+Address: 12bayviewcourt
+Email Addres: moran.patr@gmail.com
+Gender: m
+Age Bracket: 18-20 Years
+Income Bracket: < 20,000
+Exercise: Less Than 3 times per week
+Alcohol Consumption: Less than 2 Units
+Cigarette Consumption: None
+
+PPS Number: 401
+Name: f d
+Address: d
+Email Addres: @.com
+Gender: m
+Age Bracket: 18-20 Years
+Income Bracket: < 20,000
+Exercise: Never
+Alcohol Consumption: More than 4 units
+Cigarette Consumption: None
+
+=============================================================
+			Survey Statistics
+=============================================================
+
+==========================================================================
+			  Age Statistics
+==========================================================================
+The total percentage of 18-20 year old people who smoke is: 0.00%
+The total percentage of 20-30 year old people who smoke is: 0.0%
+The total percentage of 30-50 year old people who smoke is: 0.0%
+The total percentage of 50-65 year old people who smoke is:0.0%
+The total percentage of 65+ year old people who smoke is: 0.0%
+The total percentage of 18-20 year old people who smoke less than 20 is: 0.00%
+The total percentage of 20-30 year old people who smoke less than 20 is: 0.0%
+The total percentage of 30-50 year old people who smoke less than 20 is: 0.0%
+The total percentage of 50-65 year old people who smoke less than 20 is: 0.0%
+The total percentage of 65+ year old people who smoke less than 20 is: 0.0%
+The total percentage of 18-20 year old people who smoke less than 40 is: 0.00%
+The total percentage of 20-30 year old people who smoke less than 40 is: 0.0%
+The total percentage of 30-50 year old people who smoke less than 40 is: 0.0%
+The total percentage of 50-65 year old people who smoke less than 40 is: 0.0%
+The total percentage of 65+ year old people who smoke less than 40 is: 0.0%
+The total percentage of 18-20 year old people who smoke greater than 40 is: 0.00%
+The total percentage of 20-30 year old people who smoke greater than 40 is: 0.0%
+The total percentage of 30-50 year old people who smoke greater than 40 is: 0.0%
+The total percentage of 50-65 year old people who smoke greater than 40 is: 0.0%
+The total percentage of 65+ year old people who smoke greater than 40 is: 0.0%
+=========================================================================================
+The total percentage of 18-20 year old people who don't exercise is: 50.00%
+The total percentage of 20-30 year old people who don't exercise is: 0.0%
+The total percentage of 30-50 year old people who don't exercise is: 0.0%
+The total percentage of 50-65 year old people who don't exercise is:0.0%
+The total percentage of 65+ year old people who don't exercise is: 0.0%
+The percentage of 18-20 year old people who exercise less than 3 times per week is: 50.00%
+The percentage of 20-30 year old people who exercise less than 3 times per week is: 0.0%
+The percentage of 30-50 year old people who exercise less than 3 times per week is: 0.0%
+The percentage of 50-65 year old people who exercise less than 3 times per week is:0.0%
+The percentage of 65+ year old people who exercise less than 3 times per week is: 0.0%
+The percentage of 18-20 year old people who exercise less than 5 times per week is: 0.00%
+The percentage of 20-30 year old people who exercise less than 5 times per week is: 0.0%
+The percentage of 30-50 year old people who exercise less than 5 times per week is: 0.0%
+The percentage of 50-65 year old people who exercise less than 5 times per week is:0.0%
+The percentage of 65+ year old people who exercise less than 5 times per week is: 0.0%
+The percentage of 18-20 year old people who exercise greater than 5 times per week is: 0.00%
+The percentage of 20-30 year old people who exercise greater than 5 times per week is: 0.0%
+The percentage of 30-50 year old people who exercise greater than 5 times per week is: 0.0%
+The percentage of 50-65 year old people who exercise greater than 5 times per week is:0.0%
+The percentage of 65+ year old people who exercise greater than 5 times per week is: 0.0%
+=========================================================================================
+The total percentage of 18-20 year old people who don't drink alcohol is: 0.00%
+The total percentage of 20-30 year old people who don't drink alcohol is: 0.0%
+The total percentage of 30-50 year old people who don't drink alcohol is: 0.0%
+The total percentage of 50-65 year old people who don't drink alcohol is: 0.0%
+The total percentage of 65+ year old people who don't drink alcohol is: 0.0%
+The percentage of 18-20 year old people whodrink less than 2 units per week is: 50.00%
+The percentage of 20-30 year old people who drink less than 2 units per week is: 0.0%
+The percentage of 30-50 year old people who drink less than 2 units per week is: 0.0%
+The percentage of 50-65 year old people who drink less than 2 units per week is: 0.0%
+The percentage of 65+ year old people who drink less than 2 units per week is: 0.0%
+The percentage of 18-20 year old people who drink less than 4 units per week is: 0.00%
+The percentage of 20-30 year old people who drink less than 4 units per week is: 0.0%
+The percentage of 30-50 year old people who drink less than 4 units per week is: 0.0%
+The percentage of 50-65 year old people who drink less than 4 units per week is: 0.0%
+The percentage of 65+ year old people who drink less than 4 units per week is: 0.0%
+The percentage of 18-20 year old people who drink more than 4 units per week is: 50.00%
+The percentage of 20-30 year old people who drink more than 4 units per week is: 0.0%
+The percentage of 30-50 year old people who drink more than 4 units per week is: 0.0%
+The percentage of 50-65 year old people who drink more than 4 units per week is: 0.0%
+The percentage of 65+ year old people who drink more than 4 units per week is: 0.0%
+
+==========================================================================
+			  Income Statistics
+==========================================================================
+The total percentage of people with no income who smoke is: 0.0%
+The total percentage of people who earn < 20000 and who smoke is: 0.00%
+The total percentage of people who earn < 40000 and who smoke is: 0.0%
+The total percentage of people who earn < 60000 and who smoke is: 0.0%
+The total percentage of people who earn < 80000 and who smoke is: 0.0%
+The total percentage of people who earn < 100000 and who smoke is: 0.0%
+The total percentage of people who earn > 100000 and who smoke is: 0.0%
+The total percentage of people with no income and who smoke < 20 is: 0.0%
+The total percentage of people who earn < 20000 and who smoke < 20 is: 0.00%
+The total percentage of people who earn < 40000 and who smoke < 20 is: 0.0%
+The total percentage of people who earn < 60000 and who smoke < 20 is: 0.0%
+The total percentage of people who earn < 80000 and who smoke < 20 is: 0.0%
+The total percentage of people who earn < 100000 and who smoke < 20 is: 0.0%
+The total percentage of people who earn > 100000 and who smoke < 20 is: 0.0%
+The total percentage of people with no income and who smoke < 40 is: 0.0%
+The total percentage of people who earn < 20000 and who smoke < 40 is: 0.00%
+The total percentage of people who earn < 40000 and who smoke < 40 is: 0.0%
+The total percentage of people who earn < 60000 and who smoke < 40 is: 0.0%
+The total percentage of people who earn < 80000 and who smoke < 40 is: 0.0%
+The total percentage of people who earn < 100000 and who smoke < 40 is: 0.0%
+The total percentage of people who earn > 100000 and who smoke < 40 is: 0.0%
+The total percentage of people with no income and who smoke > 40 is: 0.0%
+The total percentage of people who earn < 20000 and who smoke > 40 is: 0.00%
+The total percentage of people who earn < 40000 and who smoke > 40 is: 0.0%
+The total percentage of people who earn < 60000 and who smoke > 40 is: 0.0%
+The total percentage of people who earn < 80000 and who smoke > 40 is: 0.0%
+The total percentage of people who earn < 100000 and who smoke > 40 is: 0.0%
+The total percentage of people who earn > 100000 and who smoke > 40 is: 0.0%
+==========================================================================
+The total percentage of people with no income who never exercise is: 0.0%
+The total percentage of people who earn < 20000 and who never exercise is: 50.00%
+The total percentage of people who earn < 40000 and who never exercise is: 0.0%
+The total percentage of people who earn < 60000 and who never exercise is: 0.0%
+The total percentage of people who earn < 80000 and who never exercise is: 0.0%
+The total percentage of people who earn < 100000 and who never exercise is: 0.0%
+The total percentage of people who earn > 100000 and who never exercise is: 0.0%
+The total percentage of people with no income and who exercise < 3 times per week is: 0.0%
+The total percentage of people who earn < 20000 and who exercise < 3 times per week is: 50.00%
+The total percentage of people who earn < 40000 and whoexercise < 3 times per week is: 0.0%
+The total percentage of people who earn < 60000 and who exercise < 3 times per week is: 0.0%
+The total percentage of people who earn < 80000 and who exercise < 3 times per week is: 0.0%
+The total percentage of people who earn < 100000 and who exercise < 3 times per week is: 0.0%
+The total percentage of people who earn > 100000 and who exercise < 3 times per week is: 0.0%
+The total percentage of people with no income and who exercise < 5 times per week is: 0.0%
+The total percentage of people who earn < 20000 and who exercise < 5 times per week is: 0.00%
+The total percentage of people who earn < 40000 and whoexercise < 5 times per week is: 0.0%
+The total percentage of people who earn < 60000 and who exercise < 5 times per week is: 0.0%
+The total percentage of people who earn < 80000 and who exercise < 5 times per week is: 0.0%
+The total percentage of people who earn < 100000 and who exercise < 5 times per week is: 0.0%
+The total percentage of people who earn > 100000 and who exercise < 5 times per week is: 0.0%
+The total percentage of people with no income and who exercise > 5 times per week is: 0.0%
+The total percentage of people who earn < 20000 and who exercise > 5 times per week is: 0.00%
+The total percentage of people who earn < 40000 and whoexercise > 5 times per week is: 0.0%
+The total percentage of people who earn < 60000 and who exercise > 5 times per week is: 0.0%
+The total percentage of people who earn < 80000 and who exercise > 5 times per week is: 0.0%
+The total percentage of people who earn < 100000 and who exercise > 5 times per week is: 0.0%
+The total percentage of people who earn > 100000 and who exercise > 5 times per week is: 0.0%
+==========================================================================
+The percentage of people with no income who do not consume alcohol is: 0.0%
+The percentage of people who earn < 20000 and who do not consume alcohol is: 0.00%
+The percentage of people who earn < 40000 and do not consume alcohol is: 0.0%
+The percentage of people who earn < 60000 and who do not consume alcohol is: 0.0%
+The percentage of people who earn < 80000 and who do not consume alcohol is: 0.0%
+The percentage of people who earn < 100000 and who do not consume alcohol is: 0.0%
+The percentage of people who earn > 100000 and who do not consume alcohol is: 0.0%
+The percentage of people with no income & consume < 2 units of alcohol per week is: 0.0%
+The percentage of people who earn < 20000 & consume < 2 units of alcohol per week is: 50.00%
+The percentage of people who earn < 40000 & consume < 2 units of alcohol per week is: 0.0%
+The percentage of people who earn < 60000 & consume < 2 units of alcohol per week is: 0.0%
+The percentage of people who earn < 80000 & consume < 2 units of alcohol per week is: 0.0%
+The  percentage of people who earn < 100000 & consume < 2 units of alcohol per week is: 0.0%
+The percentage of people who earn > 100000 & consume < 2 units of alcohol per week is: 0.0%
+The percentage of people with no income & consume < 4 units of alcohol per week is: 0.0%
+The percentage of people who earn < 20000 & consume < 4 units of alcohol per week is: 0.00%
+The percentage of people who earn < 40000 & consume < 4 units of alcohol per week is: 0.0%
+The percentage of people who earn < 60000 & consume < 4 units of alcohol per week is: 0.0%
+The percentage of people who earn < 80000 & consume < 4 units of alcohol per week is: 0.0%
+The percentage of people who earn < 100000 & consume < 4 units of alcohol per week is: 0.0%
+The percentage of people who earn > 100000 & consume < 4 units of alcohol per week is: 0.0%
+The percentage of people with no income & consume > 4 units of alcohol per week is: 0.0%
+The percentage of people who earn < 20000 & consume > 4 units of alcohol per week is: 50.00%
+The percentage of people who earn < 40000 & consume > 4 units of alcohol per week is: 0.0%
+The percentage of people who earn < 60000 & consume > 4 units of alcohol per week is: 0.0%
+The percentage of people who earn < 80000 & consume > 4 units of alcohol per week is: 0.0%
+The percentage of people who earn < 100000 & consume > 4 units of alcohol per week is: 0.0%
+The percentage of people who earn > 100000 & consume > 4 units of alcohol per week is: 0.0%
+
+==========================================================================
+			  Gender Statistics
+==========================================================================
+The total percentage of Males who smoke is: 0.00%
+The total percentage of Females who smoke is: 0.00%
+The total percentage of Males who smoke < 20 is: 0.00%
+The total percentage of Females who smoke < 20 is: 0.00%
+The total percentage of Males who smoke < 40 is: 0.00%
+The total percentage of Females who smoke < 40 is: 0.00%
+The total percentage of Males who smoke > 40 is: 0.00%
+The total percentage of Females who smoke > 40 is: 0.00%
+==================================================================================
+The total percentage of Males who don't exercise is: 50.00%
+The total percentage of Females who don't exercise is: 0.00%
+The total percentage of Males who exercise less than 3 times per week is: 50.00%
+The total percentage of Femaleswho exercise less than 3 times per week is: 0.00%
+The total percentage of Males who exercise less than 5 times per week is: 0.00%
+The total percentage of Femaleswho exercise less than 5 times per week is: 0.00%
+The total percentage of Males who exercise greater than 5 times per week is: 0.00%
+The total percentage of Females who exercise greater than 5 times per week is: 0.00%
+==================================================================================
+The total percentage of Males who consume no alcohol is: 0.00%
+The total percentage of Females who consume no alcohol is: 0.00%
+The total percentage of Males who consume less than 2 units of alcohol is: 50.00%
+The total percentage of Females who consume less than 2 units alcohol is: 0.00%
+The total percentage of Males who consume less than 4 units of alcohol is: 0.00%
+The total percentage of Females who consume less than 4 units alcohol is: 0.00%
+The total percentage of Males who consume greater than 4 units of alcohol is: 50.00%
+The total percentage of Females who consume greater than 4 units alcohol is: 0.00%
+
